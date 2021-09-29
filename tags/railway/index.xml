@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>railway on Made Wiguna projets</title>
-    <link>https://username.github.io/tags/railway/</link>
+    <link>https://madewgn.github.io/GoAds/tags/railway/</link>
     <description>Recent content in railway on Made Wiguna projets</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 26 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://username.github.io/tags/railway/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://madewgn.github.io/GoAds/tags/railway/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>cara install railway cli</title>
-      <link>https://username.github.io/post/2021-09-26-cara-install-railway-cli/</link>
+      <link>https://madewgn.github.io/GoAds/post/2021-09-26-cara-install-railway-cli/</link>
       <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://username.github.io/post/2021-09-26-cara-install-railway-cli/</guid>
+      <guid>https://madewgn.github.io/GoAds/post/2021-09-26-cara-install-railway-cli/</guid>
       <description>Cara Install Railway Cli Install railway Cli railway sangat bagus untuk mendeploy aplikasi buatan sobat, agar nantinya aplikasi buatan sobat dapat di akses secara online, dan cara install nya juga cukup mudahapt updatebtw ada 3 cara nih untuk install railway cli nya, dengan curl, npm dan juga :)
 Brew brew tap railwayapp/railway brew install railway
 NPM npm i -g @railway/cli

@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog on Made Wiguna projets</title>
-    <link>https://username.github.io/tags/blog/</link>
+    <link>https://madewgn.github.io/GoAds/tags/blog/</link>
     <description>Recent content in blog on Made Wiguna projets</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 28 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://username.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://madewgn.github.io/GoAds/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cara Menambahkan Google Analytics Pada Hugo</title>
-      <link>https://username.github.io/post/2021-09-28-cara-menambahkan-google-analytics-pada-hugo/</link>
+      <link>https://madewgn.github.io/GoAds/post/2021-09-28-cara-menambahkan-google-analytics-pada-hugo/</link>
       <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://username.github.io/post/2021-09-28-cara-menambahkan-google-analytics-pada-hugo/</guid>
+      <guid>https://madewgn.github.io/GoAds/post/2021-09-28-cara-menambahkan-google-analytics-pada-hugo/</guid>
       <description>Ketika kita mengelola sebuah website baik itu website pribadi, kantor, event, dll., pastinya kita ingin bisa memantau traffic dari website tersebut. Salah satu layanan gratis dari Google yang dapat membantu kita melakukan hal tersebut adalah Google Analytics.
 Dengan Google Analytics, kita bisa mendapatkan informasi dari mulai halaman mana yang dikunjungi visitor, negara asal visitor, sumber dan kata kunci yang merujuk ke website kita, hingga pembuatan report tentang traffic dari website kita.</description>
     </item>
     
     <item>
       <title>how to make blog with jekyll</title>
-      <link>https://username.github.io/post/2021-09-28-how-to-make-blog-with-jekyll/</link>
+      <link>https://madewgn.github.io/GoAds/post/2021-09-28-how-to-make-blog-with-jekyll/</link>
       <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://username.github.io/post/2021-09-28-how-to-make-blog-with-jekyll/</guid>
+      <guid>https://madewgn.github.io/GoAds/post/2021-09-28-how-to-make-blog-with-jekyll/</guid>
       <description>Creating a Blog on GitHub Using Jekyll Jekyll is a website generator designed to create static blogs to host on GitHub Pages. Tom Preston-Werner created Jekyll to allow people to blog using a simple static HTML site, with all content hosted and version-controlled on GitHub. The goal is to remove the hassle of blogging platforms by creating workflows that enable blogging in a simpler way.
 How Does Jekyll Work? Quoted from its official website, Jekyll allows us to create blogs easily and without using a database.</description>
     </item>
     
     <item>
       <title>cara memasang kode adsense di jekyll</title>
-      <link>https://username.github.io/post/2021-09-27-cara-memasang-kode-adsense-jekyll/</link>
+      <link>https://madewgn.github.io/GoAds/post/2021-09-27-cara-memasang-kode-adsense-jekyll/</link>
       <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://username.github.io/post/2021-09-27-cara-memasang-kode-adsense-jekyll/</guid>
+      <guid>https://madewgn.github.io/GoAds/post/2021-09-27-cara-memasang-kode-adsense-jekyll/</guid>
       <description>bagai mana cara memasang kode google adsense di jekyll? sebebar nya memasang kode ads di jekyll itu mudah karena hanya perlu menaruh kode nya di dalam _includes tanpa basabasi lagi langsung saja kita ke tutorial nya&amp;hellip;
 tambahkan situs baru di Adsense untuk cara menambahkan situs baru silakan buka halaman situs, setelah itu langsung tambahkan situs baru
 kemudian kamu akan mendapat kan kode sepeti ini
@@ -40,20 +40,20 @@ kemudian kamu akan mendapat kan kode sepeti ini
     
     <item>
       <title>cara nge blog dengan jekyll</title>
-      <link>https://username.github.io/post/2021-09-27-cara-membuat-blog-dengan-jekyll/</link>
+      <link>https://madewgn.github.io/GoAds/post/2021-09-27-cara-membuat-blog-dengan-jekyll/</link>
       <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://username.github.io/post/2021-09-27-cara-membuat-blog-dengan-jekyll/</guid>
+      <guid>https://madewgn.github.io/GoAds/post/2021-09-27-cara-membuat-blog-dengan-jekyll/</guid>
       <description>Membuat Blog di GitHub Menggunakan Jekyll Jekyll adalah generator situs web yang dirancang untuk membuat blog statis untuk di-hosting di Halaman GitHub. Tom Preston-Werner menciptakan Jekyll untuk memungkinkan orang untuk blog menggunakan situs HTML statis sederhana, dengan semua konten yang di-host dan dikendalikan oleh versi di GitHub. Tujuannya adalah untuk menghilangkan kerumitan platform blog dengan membuat alur kerja yang memungkinkan blogging dengan cara yang lebih sederhana.
 Bagaimana Cara Kerja Jekyll? Dikutip dari situs resmi nya, Jekyll memungkinkan kita untuk membuat blog dengan mudah dan tanpa menggunakan database.</description>
     </item>
     
     <item>
       <title>cara embed pesan Telegram ke website</title>
-      <link>https://username.github.io/post/2021-09-06-cara-embed-pesan-telegram-ke-website/</link>
+      <link>https://madewgn.github.io/GoAds/post/2021-09-06-cara-embed-pesan-telegram-ke-website/</link>
       <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://username.github.io/post/2021-09-06-cara-embed-pesan-telegram-ke-website/</guid>
+      <guid>https://madewgn.github.io/GoAds/post/2021-09-06-cara-embed-pesan-telegram-ke-website/</guid>
       <description>kini Telegram kian berkembang. Tidak lagi semata menjadi sarana perpesanan teks, namun juga banyak kegunaan lain. Misalnya saja, kini Telegram bisa digunakan untuk penyimpan atau berbagi berkas, pemutar musik, panggilan suara dan banyak lagi.
 Dan di antara banyak pembaruan pada rilis Telegram teranyar, mereka menyuguhkan fitur yang sungguh sama sekali tidak pernah saya duga; kini kita bisa melekatkan (embed) pesan dari kanal atau grup publik ke situs web. Wow&amp;hellip;.
 Artinya kini siapapun, walau tanpa memiliki akun telegram, bisa membaca pesan yang kita kirim ke kanal atau grup publik cukup dengan memasukkan tautan dari pesan Telegram ke bilah alamat (address bar) peramban web.</description>
@@ -61,10 +61,10 @@ Artinya kini siapapun, walau tanpa memiliki akun telegram, bisa membaca pesan ya
     
     <item>
       <title>Cara Membuat Blog hugo dengan Termux</title>
-      <link>https://username.github.io/post/2021-09-01-cara-nge-blog-dengan-hugo/</link>
+      <link>https://madewgn.github.io/GoAds/post/2021-09-01-cara-nge-blog-dengan-hugo/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://username.github.io/post/2021-09-01-cara-nge-blog-dengan-hugo/</guid>
+      <guid>https://madewgn.github.io/GoAds/post/2021-09-01-cara-nge-blog-dengan-hugo/</guid>
       <description>Memang bisa ngeblog pakai Termux? Tentu saja bisa dong, membahas Termux tidak melulu tentang hacking dan sebagainya.
 Banyak hal yang bisa kalian manfaatkan dari Termux ini, salah satunya untuk ngeblog.
 Supaya bisa ngeblog di Termux, kalian bisa menggunakan static site generator, alat yang berfungsi untuk membangun website statis.

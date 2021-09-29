@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hugo on Made Wiguna projets</title>
-    <link>https://username.github.io/tags/hugo/</link>
+    <link>https://madewgn.github.io/GoAds/tags/hugo/</link>
     <description>Recent content in hugo on Made Wiguna projets</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://username.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://madewgn.github.io/GoAds/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cara Membuat Blog hugo dengan Termux</title>
-      <link>https://username.github.io/post/2021-09-01-cara-nge-blog-dengan-hugo/</link>
+      <link>https://madewgn.github.io/GoAds/post/2021-09-01-cara-nge-blog-dengan-hugo/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://username.github.io/post/2021-09-01-cara-nge-blog-dengan-hugo/</guid>
+      <guid>https://madewgn.github.io/GoAds/post/2021-09-01-cara-nge-blog-dengan-hugo/</guid>
       <description>Memang bisa ngeblog pakai Termux? Tentu saja bisa dong, membahas Termux tidak melulu tentang hacking dan sebagainya.
 Banyak hal yang bisa kalian manfaatkan dari Termux ini, salah satunya untuk ngeblog.
 Supaya bisa ngeblog di Termux, kalian bisa menggunakan static site generator, alat yang berfungsi untuk membangun website statis.
