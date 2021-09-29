@@ -5,7 +5,17 @@
     <link>https://madewgn.github.io/GoAds/</link>
     <description>Recent content on Made Wiguna projets</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 29 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://madewgn.github.io/GoAds/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Sep 2021 23:16:12 +0000</lastBuildDate><atom:link href="https://madewgn.github.io/GoAds/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cara Membuat Ssh Dengan Colab</title>
+      <link>https://madewgn.github.io/GoAds/post/cara-membuat-ssh-dengan-colab/</link>
+      <pubDate>Wed, 29 Sep 2021 23:16:12 +0000</pubDate>
+      
+      <guid>https://madewgn.github.io/GoAds/post/cara-membuat-ssh-dengan-colab/</guid>
+      <description>Datang kembali di Made WGM blog disini saya akan membahas cara membuat SSH dengan Google colab, caranya pun cukup praktis tinggal menambahkan ngork token Dan SSH nya pun siap dipakai, saya membuat tutorial ini karena saya lihat banyak yang suka mining, belajar python, dll.
+ APA ITU SSH? Secure Shell adalah sebuah protokol jaringan kriptografi untuk komunikasi data yang aman, login antarmuka baris perintah, perintah eksekusi jarak jauh, dan layanan jaringan lainnya antara dua jaringan komputer.</description>
+    </item>
+    
     <item>
       <title>cara mudah membuat shortlink dengan heroku</title>
       <link>https://madewgn.github.io/GoAds/post/2021-09-29-cara-mudah-membuat-shortlink-dengan-heroku/</link>
